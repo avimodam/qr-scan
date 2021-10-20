@@ -12,17 +12,17 @@ After scanning, several relevant options for the results will be provided, you c
 
 Turn on the flashlight for scanning in the dark or use a pinch to zoom to scan QR code or barcode far away.
 
-Support all formats
+## Support all formats
 Instantly scan QR code. Support all QR & barcode formats, QR code, Data Matrix, MaxiCode, PDF417, Code 39, Code 93, Codabar, UPC-A, EAN-13, EAN-8...
 
-Privacy safe
+## Privacy safe
 It only needs camera permission, which keeps your privacy safe.
 
-Scanned and generated history
+## Scanned and generated history
 Review the codes you have scanned or generated with the history function.
 
-Code generator
+## Code generator
 You can easily create your own QR codes of various types and save the images to your device or share them with friends and colleagues.
 
-Scan from images
+## Scan from images
 Detect codes within picture files or scan directly using the camera.
