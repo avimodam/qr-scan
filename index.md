@@ -6,7 +6,7 @@ description: QR scanner, QR code reader, and barcode scanner - Fast, lightweight
 
 QR & Barcode Scanner designed with a simple interface that is easy to use and can scan all types of QR and barcodes including URL, text, Wi-Fi, contact, email, calendar, SMS, location, phone number, ISBN, product, VIN, and many more formats.
 
-[!(https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=me.flamesy.scan)
+[![QR & Barcode Scanner](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=me.flamesy.scan)
 
 Install QR code reader app to scan QR code or to scan the barcode on the go. Barcode & QR Scanner app is a free scanner app.
 
